@@ -7,7 +7,7 @@
 
 - 🌱 Estou estudando **ReactJS, NodeJS, PHP**
 
-- 📄 Me formei em [Técnico em Desenvolvimento de Sistema](Técnico em Desenvolvimento de Sistema)
+- 📄 Me formei em **Técnico em Desenvolvimento de Sistemas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
