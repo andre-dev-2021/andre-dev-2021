@@ -12,8 +12,6 @@
 <h3 align="left">Links</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andré-pereira-de-sá-593a51226" target="blank">Linkedin</a>
-<a href="https://www.hackerrank.com/andrepereirasa11" target="blank">Hackerrank</a>
-<a href="https://www.frontendmentor.io/profile/andre-dev-2021" target="blank">Frontend Mentor<a>
 </p>
 
 <h3 align="left">Conhecimentos</h3>
