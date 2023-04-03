@@ -15,8 +15,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andre-dev-2021&show_icons=true&locale=en" alt="andre-dev-2021" /></p>
 
+<div align="left">
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andr%C3%A9-pereira-de-s%C3%A1-593a51226/)
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/andre-dev-2021)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:andrepereirasa100@gmail.com)
+<div>
