@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou André</h1>
+<h1 align="center">Olá 👋, Eu sou André Pereira</h1>
 <h3 align="center">Desenvolvedor Fullstack Júnior</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/andr%C3%A9-pereira-de-s%C3%A1-593a51226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
