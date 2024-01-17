@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou André Pereira</h1>
-<h3 align="center">Desenvolvedor Fullstack Júnior</h3>
+<h3 align="center">Estudante</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/andr%C3%A9-pereira-de-s%C3%A1-593a51226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/andre-dev-2021"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-dev-2021&label=Profile%20views&color=0e75b6&style=flat" alt="andre-dev-2021" /> </p>
 
-- 🧑🏽‍💼 Trabalho na empresa **GLOBAL HITSS**
+- 🧑🏽‍💼 Trabalho na empresa **GLOBAL HITSS** como Jovem Aprendiz
 
-- 📚 Me interesso por **Javascript, NodeJS, ReactJS, PHP**
+- 📚 Me interesso por **Javascript, PHP e C#**
 
 - 📄 Sou formado em **Técnico em Desenvolvimento de Sistemas**
 
-- 🎯 Meu objetivo é ser **Dev Fullstack Sênior**
+- 🎯 Meu objetivo é ser **Fullstack**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-dev-2021&show_icons=true&locale=en&layout=compact" alt="andre-dev-2021" /></p>
 
