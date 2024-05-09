@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andre-dev-2021&label=Profile%20views&color=0e75b6&style=flat" alt="andre-dev-2021" /> </p>
 
-- 🧑🏽‍💼 Trabalho na empresa **GLOBAL HITSS** como Jovem Aprendiz
-
 - 📚 Me interesso por **Javascript, PHP e C#**
 
 - 📄 Sou formado em **Técnico em Desenvolvimento de Sistemas**
